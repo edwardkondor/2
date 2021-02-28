@@ -16,5 +16,5 @@
 
 <table>
   <tr><td>  <img src="test002.svg"></td><tr>
-  <tr><td>  <ruby>煙草<rt>とばこ</rt></ruby><ruby><rt><ruby>エン<br>ソウ</ruby>    喫煙<ruby><rt><ruby>キツ<br>エン</ruby></rt></ruby>  禁煙<ruby><rt><ruby>キン<br>エン</ruby></rt></ruby>  <td>吸煙<ruby><rt><ruby>キフ<br>エン</ruby></rt></ruby>          <tr>
+  <tr><td>  <ruby>煙草<rt>とばこ</rt></ruby><ruby><rt><ruby>エン<br>ソウ</ruby></rt></ruby>    喫煙<ruby><rt><ruby>キツ<br>エン</ruby></rt></ruby>  禁煙<ruby><rt><ruby>キン<br>エン</ruby></rt></ruby>  <td>吸煙<ruby><rt><ruby>キフ<br>エン</ruby></rt></ruby>          <tr>
 </table>

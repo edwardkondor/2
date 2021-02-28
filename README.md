@@ -3,8 +3,8 @@
     セツ
   </td><tr>  
   <tr><td>  
-    <img src="https://glyphwiki.org/glyph/u96ea.svg" alt="雪" height="40">　　　
-    <img src="https://glyphwiki.org/glyph/u4a2e.svg" alt="雪" height="40">
+    <img src="https://glyphwiki.org/glyph/u96ea.svg" alt="雪" height="40" align="left">
+    <img src="https://glyphwiki.org/glyph/u4a2e.svg" alt="雪" height="40" align="right">
   </td><tr>  
   <tr><td>
     <b>ゆき</b>　　　

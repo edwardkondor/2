@@ -1,3 +1,18 @@
+
+<ruby><sub>　シ、セ　</sub><br>【施】</ruby>**ほどこ**す
+<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby>　<ruby>施<rt>ほどこ</rt></ruby>し<ruby>工<rt>たく</rt></ruby>む
+
+
+
+
+
+
+<ruby>【施策】<rt>　　シ　サク　　</rt>
+
+
+
+
+
 <ruby><sub>　チ、ヂ　</sub><br>【地】</ruby>**つち**　　<ruby><sub>　シ、セ　</sub><br>〖施〗</ruby>**し**く　**ほどこ**す　<ruby>施工<rt>セ　コウ</rt></ruby>　<ruby>施策<rt>シ　サク</rt></ruby>　<ruby><sub>　シ　</sub><br>〖弛〗</ruby><ruby>**ゆる**<rt>**たる**</rt></ruby>む　<ruby>弛緩<rt>シ　カン</rt></ruby>
 
 

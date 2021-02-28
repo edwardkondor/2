@@ -3,7 +3,7 @@
 <ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>工<rt>たく</rt>み</ruby>を<ruby>施す<rt>ほどこ　</rt></ruby>
 <ruby>【施策】<rt>　　シ　サク　　</rt></ruby><ruby>策ごと<rt>はかり　　　</rt></ruby>を<ruby>施す<rt>ほどこ　</rt></ruby>
 
-<ruby><sub>　　チ　　</sub><br>〖馳〗</ruby>**は**せる
+<ruby><sub>　　チ　　</sub><br>〖馳〗</ruby>**は**せる　
 <ruby>〖馳走〗<rt>　　チ　ソウ　　</rt></ruby><ruby>走<rt>はし</rt>り</ruby><ruby>馳<rt>は</rt>せる</ruby>
 <ruby>［騁馳］<rt>　　テイ　チ　　</rt></ruby><ruby>騁<rt>は</rt>せる</ruby>　<ruby>馳<rt>は</rt>せる</ruby>
 

@@ -1,4 +1,4 @@
-【地】<sup>チ'</sup><sub>**つち**</sub>　　　【弛】<sup>チ</sup><sub>**たる**む</sub>　　　
+<ruby><sub>　チ ヂ　</sub><br>【地】</ruby>**つち**　　　<ruby><sub>　シ　</sub><br>〖弛〗</ruby>**ゆる**む　たるむ　<ruby>弛緩<rt>シ　カン</rt></ruby>
 
 
 

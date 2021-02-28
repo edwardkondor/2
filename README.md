@@ -1,6 +1,6 @@
 
 <ruby><sub>　シ、セ　</sub><br>【施】</ruby>**ほどこ**す
-<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby>　<ruby>施<rt>ほどこ</rt></ruby>し<ruby>工<rt>たく</rt></ruby>む
+<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>施<rt>ほどこ</rt></ruby>し<ruby>工<rt>たく</rt></ruby>む
 
 
 

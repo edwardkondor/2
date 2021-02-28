@@ -1,1 +1,1 @@
-![](test002.svg)
+![A](test002.svg)

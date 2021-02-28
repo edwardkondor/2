@@ -1,13 +1,11 @@
 
 <ruby><sub>　シ、セ　</sub><br>【施】</ruby>**ほどこ**す
-<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>工<rt>たく</rt></ruby>みを<ruby>施<rt>ほどこ</rt></ruby>す
-<ruby>【施策】<rt>　　シ　サク　　</rt></ruby><ruby>策<rt>はかり</rt>ごと</ruby>を<ruby>施<rt>ほどこ</rt></ruby>す
+<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>工<rt>たく</rt>み</ruby>を<ruby>施す<rt>ほどこ　</rt></ruby>
+<ruby>【施策】<rt>　　シ　サク　　</rt></ruby><ruby>策ごと<rt>はかり　　　</rt></ruby>を<ruby>施す<rt>ほどこ　</rt></ruby>
 
 
 
 
-
-<ruby>【施策】<rt>　　シ　サク　　</rt>
 
 
 

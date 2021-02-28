@@ -18,7 +18,6 @@
     <td>除雪<ruby><rt><ruby>ジョ<br>セツ</ruby></rt></ruby></td>
   </tr>
 </table>
-
 <table align="top">
   <tr align="center">  
     <td><img src="https://glyphwiki.org/glyph/u96ea.svg" alt="雪" height="40"></td>

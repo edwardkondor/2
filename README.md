@@ -1,4 +1,6 @@
 
+<ruby><sub>　　ヤ　　</sub><br>【也】</ruby>**なり**
+
 <ruby><sub>　シ、セ　</sub><br>【施】</ruby>**ほどこ**す
 <ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>工<rt>たく</rt>み</ruby>を<ruby>施す<rt>ほどこ　</rt></ruby>
 <ruby>【施策】<rt>　　シ　サク　　</rt></ruby><ruby>策ごと<rt>はかり　　　</rt></ruby>を<ruby>施す<rt>ほどこ　</rt></ruby>

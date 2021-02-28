@@ -1,5 +1,5 @@
 <table>
-  <tr><td>  <img src="test002.svg"> </td><tr>
+  <tr><td colspan="3">  <img src="test002.svg"> </td><tr>
   
   <tr><td><b>けむり</b></td><td>smoke</td><td>煙<ruby><rt><ruby>yen1<br>yin1</ruby></rt></ruby></td><tr>
   <tr><td><b>けむ</b>る</td><td>to smoke</td><td>冒煙<ruby><rt><ruby>mao4 yen1<br>mou6 yin1</ruby></rt></ruby></td><tr>

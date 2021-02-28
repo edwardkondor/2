@@ -1,7 +1,7 @@
 
 <ruby><sub>　シ、セ　</sub><br>【施】</ruby>**ほどこ**す
-<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>施<rt>ほどこ</rt></ruby>し<ruby>工<rt>たく</rt></ruby>む
-
+<ruby>【施工】<rt>　　セ　コウ　　</rt></ruby><ruby>工<rt>たく</rt></ruby>みを<ruby>施<rt>ほどこ</rt></ruby>す
+<ruby>【施策】<rt>　　シ　サク　　</rt></ruby><ruby>策<rt>はかり</rt>ごと</ruby>を<ruby>施<rt>ほどこ</rt></ruby>す
 
 
 

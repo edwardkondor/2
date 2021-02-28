@@ -1,7 +1,4 @@
 <table>
-  <tr><td align="center" colspan="3">  
-    セツ
-  </td><tr>  
   <tr align="center">  
     <td><img src="https://glyphwiki.org/glyph/u96ea.svg" alt="雪" height="40"></td>
     <td>セツ</td>

@@ -1,4 +1,4 @@
-<table align="left">
+<table align="left" width="250px">
   <tr align="center"><td>
     <img src="https://f.2cn.cn/hanzi/svg/610F.svg" height="40">
     <ruby><sub>イ　　　</sub><br>　</ruby>
@@ -12,7 +12,7 @@
   </td></tr>
 </table>
 
-<table align="left">
+<table align="left" width="250px">
   <tr align="center"><td>
     <img src="https://f.2cn.cn/hanzi/svg/8822.svg" height="40">
     <ruby><sub>シュン　</sub><br>　</ruby>

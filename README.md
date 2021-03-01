@@ -1,5 +1,5 @@
-<table align="left" width="250px">
-  <tr align="center"><td>
+<table align="left">
+  <tr align="center"><td width="250px">
     <img src="https://f.2cn.cn/hanzi/svg/610F.svg" height="40">
     <ruby><sub>イ　　　</sub><br>　</ruby>
     <ruby>音<sup>おと　　</sup><br>心<sup>こころ　</sup></ruby>   
@@ -12,8 +12,8 @@
   </td></tr>
 </table>
 
-<table align="left" width="250px">
-  <tr align="center"><td>
+<table align="left">
+  <tr align="center"><td width="250px">
     <img src="https://f.2cn.cn/hanzi/svg/8822.svg" height="40">
     <ruby><sub>シュン　</sub><br>　</ruby>
     <ruby>春<sup>シュン　</sup><br>䖵<sup>むし　　</sup></ruby>   
